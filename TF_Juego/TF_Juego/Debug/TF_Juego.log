@@ -1,0 +1,13 @@
+﻿  Adversarios.cpp
+  Aliados.cpp
+  Configuracion.cpp
+  Juego.cpp
+C:\Users\ROGGER\Desktop\TF_Progra_II\TF_Juego v.04\TF_Juego\TF_Juego\Juego.cpp(8,33): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+  Jugador.cpp
+  Mundo.cpp
+  Personaje.cpp
+  Vehiculos.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  Adversarios.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+LINK : fatal error LNK1561: se debe definir el punto de entrada
